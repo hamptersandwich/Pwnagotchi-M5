@@ -33,8 +33,6 @@ The pwnagotchi M5 was made to be as easy to add and edit as possible, simply ins
 ##
 (◕‿‿◕) awake / normal
 ##
-( ⚆⚆), (☉☉ ) observing (neutral mood)
-##
 ( ◕‿◕), (◕‿◕ ) observing (happy)
 ##
 (°▃▃°) intense
@@ -64,6 +62,7 @@ The pwnagotchi M5 was made to be as easy to add and edit as possible, simply ins
 (#__#) debugging
 ##
 
-# Progress and Ideas
+# Planned Features
 
-1. Prepare face
+I have some ideas for attacks, I think that the normal pwnagotchi's attacks are a bit.... anti climactic.
+I'll add network cloning, ssid spamming, and a fake wifi portal. These are illegal so use at your own risk.
