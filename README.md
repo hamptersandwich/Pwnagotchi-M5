@@ -11,7 +11,55 @@ Happy pwning!
 
 Pwnagotchi-M5 is a port of the popular pentesting gadget to the M5stickC plus 2
 
+### When will this release?
+
+The release date is scheduled to be on the 25th of April, I will provide images, updates, and updates to the readme.
+
+
 
 ## How can I add to this?
 
-The pwnagotchi M5 was made to be as easy to add and edit as possible, simply install the libraries and open the script then you can pretty much immediately compile it to your board
+The pwnagotchi M5 was made to be as easy to add and edit as possible, simply install the libraries and open the script then you can pretty much immediately compile it to your board.
+
+### Faces 
+
+(⇀‿‿↼) sleeping
+##
+(≖‿‿≖) awakening
+##
+(◕‿‿◕) awake / normal
+##
+( ⚆⚆), (☉☉ ) observing (neutral mood)
+##
+( ◕‿◕), (◕‿◕ ) observing (happy)
+##
+(°▃▃°) intense
+##
+(⌐■_■) cool
+##
+(•‿‿•) happy
+##
+(^‿‿^) grateful
+##
+(ᵔ◡◡ᵔ) excited
+##
+(✜‿‿✜) smart
+##
+(♥‿‿♥) friendly
+##
+(☼‿‿☼) motivated
+##
+(≖__≖) demotivated
+##
+(-__-) bored
+##
+(╥☁╥ ) sad
+##
+(☓‿‿☓) broken
+##
+(#__#) debugging
+##
+
+# Progress and Ideas
+
+
